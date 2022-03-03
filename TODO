@@ -3,7 +3,7 @@ Skewed bloch periodic boundary conditions for non-orthogonal unit cells
 Discrete rotational symmetry in cylindrical coordinates.
 
 Second-order accurate subpixel smoothing scheme for
-dispersive materials with complex permittivity.
+dispersive materials with complex permittivity.fdfdfdf
 
 Support 3d (r,phi,z) cell, where m is "Bloch wavenumber"
       -- gives 6-fold (and n-fold) symmetry as side effect
